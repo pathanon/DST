@@ -1,0 +1,13 @@
+opencv-python
+imageio
+scikit-image
+scikit-learn
+IPython
+scipy
+pandas
+netifaces
+tensorboard
+numpy
+matplotlib
+scipy
+tqdm
